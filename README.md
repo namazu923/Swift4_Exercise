@@ -1,2 +1,2 @@
-# Swift4_Exercise
-Swift4_Exercise
+# Swift4_Learning
+Swift4_Learning
