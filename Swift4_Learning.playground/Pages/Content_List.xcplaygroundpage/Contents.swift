@@ -10,5 +10,8 @@
  
  * [Switch](Switch)
 
+ Functions
+ 
+ * [Functions](Functions)
  
 */

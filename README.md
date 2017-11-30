@@ -1,8 +1,12 @@
 # Swift4_Learning
 
-# Content
-
+---
+# Content List
 ## Flow Control  
 
 * For Loops
 * Switch
+
+## Functions
+
+* Functions 
