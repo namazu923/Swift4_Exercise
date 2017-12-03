@@ -5,7 +5,7 @@
 /*:
  ## Functions
  */
-
+import Foundation
 //: Case 1: Parameter's Default Value
 func printMultipleOf(_ multiplier: Int, and value: Int = 1) -> (a: Int, b: Int, ab: Int) {
     print("\(multiplier) * \(value) = \(multiplier * value)")
