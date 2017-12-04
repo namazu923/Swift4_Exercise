@@ -10,3 +10,10 @@
 ## Functions
 
 * Functions 
+
+## Collections
+
+* Array
+* Dictionary
+* Set
+* Closure

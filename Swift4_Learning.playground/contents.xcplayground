@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='Content_List'/>
         <page name='For_Loops'/>
         <page name='Switch'/>
         <page name='Functions'/>
-        <page name='Arrays'/>
+        <page name='Array'/>
+        <page name='Dictionary'/>
+        <page name='Set'/>
+        <page name='Closure'/>
     </pages>
 </playground>

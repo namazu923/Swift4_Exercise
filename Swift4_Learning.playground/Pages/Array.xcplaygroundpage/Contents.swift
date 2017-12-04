@@ -3,7 +3,7 @@
  ***
  */
 /*:
- ## Arrays
+ ## Array
  */
 import Foundation
 
@@ -59,8 +59,9 @@ print()
 //: Case 8: get Index
 print(numbers.index(of: 15) as Any)
 
-
-
+//: Case 9: sort
+let unsortedArray = [2, 3, 5, 4, 8, 1,6, 7]
+let sortedArray = unsortedArray.sorted()
 
 
 
