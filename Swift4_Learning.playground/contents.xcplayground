@@ -9,5 +9,6 @@
         <page name='Dictionary'/>
         <page name='Set'/>
         <page name='Closure'/>
+        <page name='String'/>
     </pages>
 </playground>

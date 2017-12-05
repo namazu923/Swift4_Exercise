@@ -19,5 +19,8 @@
  * [Dictionary](Dictionary)
  * [Set](Set)
  * [Closure](Closure)
+ * [String](String)
+ 
+ Structures
  
 */

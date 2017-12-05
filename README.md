@@ -17,3 +17,4 @@
 * Dictionary
 * Set
 * Closure
+* String
