@@ -18,3 +18,11 @@
 * Set
 * Closure
 * String
+
+## Structures
+
+* Property
+
+## Classes
+
+* Classes
